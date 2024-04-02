@@ -21,7 +21,7 @@ namespace _1.Methods_Lab
             }
             else
             {
-                Console.WriteLine($"The number {num} is negative.");
+                Console.WriteLine($"The number {num} is negative!");
             }
         }
     }
